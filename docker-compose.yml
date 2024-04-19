@@ -3,6 +3,6 @@ services:
   cockroachai-v2:
     image: lyy0709/cockroachai-v2:latest
     ports:
-      - "9000:9315" #左侧为暴露的端口
+      - "9315:9315" #左侧为暴露的端口
     volumes:
       - ./config:/app/config
