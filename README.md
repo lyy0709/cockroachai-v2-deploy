@@ -38,7 +38,7 @@ vim config/config.yaml
 4.启动
 
 ```bash
-./deploy.sh
+chmod +x deploy.sh && ./deploy.sh
 ```
 
 ## 安装方法(Docker)
