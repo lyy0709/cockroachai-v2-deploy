@@ -1,0 +1,7 @@
+PORT: 9315
+JA3_PROXY: "http://cockroachai:cockroachai@172.17.0.1:9988" #ja3代理
+# ASSET_PREFIX: "" # 用于配置静态资源
+ADMIN_PASSWORD: "xyhelper" #管理员密码
+USERTOKENS:
+  - "hello"
+  - "123456"
