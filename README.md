@@ -1,6 +1,7 @@
 # cockroachai-v2-deploy
 - cockroachai-v2使用教程-暂时
 - 现无会话隔离
+- 现无法接入限速以及第三方账户
 
 ## 前置要求
 
