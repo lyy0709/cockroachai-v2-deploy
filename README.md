@@ -42,8 +42,8 @@ services:
     ports:
       - "5006:5006" #左侧端口暴露在外,可根据需求更改
     environment:
-	  - VERSION=2.4.5
-	  - HASH=6c9d6e9be9aa044cc5ce9548b4abe1b0
+      - VERSION=2.4.5
+      - HASH=6c9d6e9be9aa044cc5ce9548b4abe1b0
 ```
 按一下 esc，然后 :wq 保存退出
 
