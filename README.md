@@ -72,7 +72,7 @@ services:
       - "9315:9315" #左侧端口暴露在外,可根据需求更改
     volumes:
       - ./config:/app/config
-	     - ./harPool:/app/harPool #增加卷映射，如果用方法一则无需添加
+      - ./harPool:/app/harPool #增加卷映射，如果用方法一则无需添加
 ```
 
 ## 前置要求
