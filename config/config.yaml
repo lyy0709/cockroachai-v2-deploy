@@ -1,8 +1,6 @@
 PORT: 9315
 JA3_PROXY: "http://cockroachai:cockroachai@172.17.0.1:9988"
-# ASSET_PREFIX: "" # 用于配置静态资源，可选
-# HTTPPROXY: "" # 用于配置getsession代理，可选
-# ARKOSE_TOKEN: "" # 用于配置arkose代理，可选
+REFRESH_TOKEN: "" #未测试
 ADMIN_PASSWORD: "xyhelper"
 USERTOKENS:
   - "hello"
