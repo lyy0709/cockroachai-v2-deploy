@@ -34,7 +34,7 @@ vim config/config.yaml
 
 修改 USERTOKENS 为用户 Token，可以使用多个
 
-访问 http://服务器 IP:9315/setup 输入refreshcookie写入 session.json
+访问 http://服务器 IP:9315/setup 输入accesstoken写入 accesstoken.json
 
 4.启动
 
